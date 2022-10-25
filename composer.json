@@ -2,8 +2,11 @@
     "name": "ncut/lara_0804_p",
     "authors": [
         {
-            "name": "Chen Yi-Hsuan"
+            "name": "Chen Yi-Hsuan",
+            "email": "s3a932087@student.ncut.edu.tw"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.40"
+    }
 }
